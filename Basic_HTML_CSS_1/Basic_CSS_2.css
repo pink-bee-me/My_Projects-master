@@ -1,0 +1,12 @@
+
+p {
+	color:orange;
+	background-color:SlateBlue;
+	font-size:Large;
+	text-align:center;
+  }
+  
+ h1,h3 {
+		color:white;
+		text-shadow: 10px 10px 20px #000000;
+ }

@@ -1,0 +1,9 @@
+ul
+{
+	list-style: circle inside none;
+}
+
+ol
+{
+	list-style: lower-roman outside none;
+}
